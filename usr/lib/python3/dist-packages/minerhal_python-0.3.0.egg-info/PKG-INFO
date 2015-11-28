@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: minerhal-python
+Version: 0.3.0
+Summary: Pythonic wrapper to minerhal
+Home-page: https://github.com/21dotco/minerhal
+Author: 21
+Author-email: info@21.co
+License: TBD
+Description: Pythonic wrapper to minerhal
+Keywords: minerhal minerd bitcoin 21 devkit
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: System :: Hardware :: Hardware Drivers
+Classifier: Programming Language :: Python :: 3
